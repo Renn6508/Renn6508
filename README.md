@@ -1,5 +1,3 @@
-<!-- Banner / GIF -->
-<img src="https://i.ibb.co/N6M1w2D/coding-banner.gif" alt="Coding Banner" width="100%">
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/YOURUSERNAME">Loren</a> 👋</h1>
 <h3 align="center">💻 Software Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner</h3>
