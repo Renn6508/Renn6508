@@ -31,11 +31,11 @@
 ## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?usernameRenn6508&show_icons=true&theme=radical&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Renn6508&theme=radical" height="165" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renn6508&theme=radical" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renn6508&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -72,11 +72,12 @@
   <a href="mailto:wilhelmina6508@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
   <a href="https://instagram.com/mayrenn58_"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" /></a>
   <a href="https://github.com/Renn6508"><img src="https://img.shields.io/badge/-Github-181f48?logo=github&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://learn.microsoft.com/en-us/users/wilhelminalorenziawijaya-4296/"><img src="https://img.shields.io/badge/-Microsoft-374343?logo=microsoft&style=for-the-badge&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=blue&style=flat" />
-  <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Renn6508&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/Renn6508?label=Followers&style=flat" />
 </p>
