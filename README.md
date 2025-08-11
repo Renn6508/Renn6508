@@ -1,9 +1,9 @@
-<!-- 🎬 Header Animasi -->
+<!-- Header Animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FFB800&center=true&vCenter=true&width=900&lines=Hi+There!+👋;I'm+Wilhelmina+Lorenzia+Wijaya;Full+Stack+Developer+%7C+UI%2FUX+Enthusiast+%7C+Tech+Explorer;Always+learning+new+things+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FFB800&center=true&vCenter=true&width=900&lines=Hi+There!+👋;I'm+Renn6508;Front+End+Developer+%7C+UI%2FUX+Enthusiast;Always+learning+new+things+🚀">
 </p>
 
-<!-- 🖼 Banner Image -->
+<!-- Banner Image -->
 <p align="center">
   <img src="https://i.ibb.co/ZL6v2Fc/github-banner.png" width="100%" alt="Profile Banner">
 </p>
@@ -11,13 +11,13 @@
 ---
 
 ## 💡 About Me
-> "Code is my language, creativity is my accent."
+> "Looking for partners to build a project together👀"
 
-- 💻 Full Stack Developer passionate about **clean code** & **beautiful UI**  
+- 💻 Full Stack Developer passionate about **clean code** & **unique UI**  
 - 🚀 Exploring **AI, Web Apps, and Mobile Development**  
-- 🎯 Mission: Build **products that inspire and help people**  
+- 🎯 Mission: Build **Lemongan Mountain on Roblox Studio**  
 - 🎨 Creative problem-solver with an eye for design  
-- ☕ Fun fact: I can debug faster with **lo-fi beats & coffee**  
+- ☕ Fun fact: I've been creating games in Ro-Studio **since 2021**  
 
 ---
 
@@ -30,8 +30,8 @@
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?usernameRenn6508&show_icons=true&theme=radical&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renn6508&theme=radical" height="165" />
 </p>
 
 <p align="center">
@@ -69,10 +69,9 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
-  <a href="https://instagram.com/YOUR-IG"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/-Portfolio-FF5722?logo=Google-Chrome&style=for-the-badge&logoColor=white" /></a>
+  <a href="mailto:wilhelmina6508@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://instagram.com/mayrenn58_"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/Renn6508"><img src="https://img.shields.io/badge/-Github-E4405F?logo=github&style=for-the-badge&logoColor=white" /></a>
 </p>
 
 ---
