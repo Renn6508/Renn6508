@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,100:FF0080&height=120&section=header&text=Welcome+to+My+World!&fontSize=30&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,100:FF0080&height=120&section=header&text=Selamat+datang+di+Renn608 World!&fontSize=30&fontColor=fff&animation=fadeIn" />
 </p>
 
 ---
@@ -41,12 +41,12 @@
 
 ## 🎵 Music Vibes
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r7eiirhcmyuyip6bnginbwnuvu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=ff0080&bar_color_cover=true" width="420" style="border-radius: 20px;" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31p5mkx2xtggun5akrplexqxz5ey&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=b14e4e&bar_color_cover=true" width="350" style="border-radius: 20px;" />
 </p>
 
 <h4 align="center">🔥 Recent Tracks</h4>
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r7eiirhcmyuyip6bnginbwnuvu&count=6" width="520" style="border-radius: 12px;" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p5mkx2xtggun5akrplexqxz5ey&count=10 unique={true}" width="399" style="border-radius: 12px;" />
 </p>
 ---
 
