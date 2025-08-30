@@ -57,6 +57,16 @@
 
 ---
 
+<h2 align="center">📸 Gallery</h2>
+
+<table align="center">
+<img src="26ed4c7a-aad4-405a-ade0-01a732f0181e.gif" width="180" alt="Gallery 6"/>
+</table>
+
+---
+
+---
+
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:wilhelmina6508@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
