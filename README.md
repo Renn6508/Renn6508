@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,100:FF0080&height=120&section=header&text=Selamat+datang+di+Renn608 World!&fontSize=30&fontColor=fff&animation=fadeIn" />
+  <img src="github-header-banner.png" />
 </p>
 
 ---
