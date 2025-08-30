@@ -46,7 +46,7 @@
 
 <h4 align="center">🔥 Recent Tracks</h4>
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p5mkx2xtggun5akrplexqxz5ey&count=10 unique={true}" width="399" style="border-radius: 12px;" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p5mkx2xtggun5akrplexqxz5ey&count=10" width="399" style="border-radius: 12px;" />
 </p>
 ---
 
