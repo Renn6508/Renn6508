@@ -13,8 +13,8 @@
 > "Looking for partners to build a project together 👀"
 
 - 💻 Passionate about **clean code** & **unique UI**  
-- 🚀 Exploring **AI, Web Apps, and Mobile Development**  
-- 🎯 Mission: Build **Lemongan Mountain on Roblox Studio**  
+- 🚀 Exploring **AI,Data science, and Mobile Development**  
+- 🎯 Mission: Build **A awesome team project**  
 - 🎨 Creative problem-solver with an eye for design  
 - ☕ Fun fact: Creating games in **Ro-Studio since 2021**  
 
