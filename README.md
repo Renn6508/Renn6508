@@ -1,6 +1,6 @@
 <!-- 🌟 Header Animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=808080&center=true&vCenter=true&width=900&lines=Hi+There!+👋;I'm+Wilhelmina+Lorenzia;Full+Stack+Developer+⚡;UI%2FUX+Enthusiast+🎨;Always+learning+new+things+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=808080&center=true&vCenter=true&width=900&lines=Hi+There!+👋;I'm+Wilhelmina+Lorenzia;Full+Stack+Developer+💻;UI%2FUX+Enthusiast+🖌;Always+learning+new+things+🔔">
 </p>
 
 <p align="center">
