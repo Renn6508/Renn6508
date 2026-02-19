@@ -71,7 +71,7 @@
 <p align="center">
   <a href="mailto:wilhelmina6508@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
   <a href="https://instagram.com/ren_eyebqgs"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/wilhelmina-lorenzia-wijaya-97045b3a9/"><img src="https://img.shields.io/badge/-Linkedin-181f48?logo=github&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/wilhelmina-lorenzia-wijaya-97045b3a9/"><img src="https://img.shields.io/badge/-Linkedin-181f48?logo=linkedin&style=for-the-badge&logoColor=white" /></a>
   <a href="https://learn.microsoft.com/en-us/users/wilhelminalorenziawijaya-4296/"><img src="https://img.shields.io/badge/-Microsoft-0078D4?logo=microsoft&style=for-the-badge&logoColor=white" /></a>
 </p>
 
