@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="github-header-banner.png" />
+  <img src="github-header-banner.gif" />
 </p>
 
 ---
